@@ -4,6 +4,10 @@
 An end-to-end data analytics project examining **3,900 customer transactions** across various product categories, seasons, and customer segments. The analysis focuses on understanding category demand, repeat purchase cadences, promotional discount impacts, and subscription economics to deliver actionable commercial insights.
 
 ---
+## 📊 Dashboard Preview
+![Dashboard Preview](dashboard_preview.png)
+
+---
 
 ## 🛠️ Tech Stack & Tools
 * **SQL (MSSQL / PostgreSQL):** Business KPI aggregation, window functions (`ROW_NUMBER()`), conditional segmentation (`CASE` statements), and CTEs.
