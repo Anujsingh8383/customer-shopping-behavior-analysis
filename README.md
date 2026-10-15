@@ -35,10 +35,11 @@ An end-to-end data analytics project examining **3,900 customer transactions** a
 
 ---
 
-## 💡 Strategic Recommendations
-1. **Protect the Core Assortment:** Leverage clothing and accessories as continuous volume drivers.
-2. **Cross-Selling Strategies:** Attach footwear and accessories to clothing checkouts to lift overall basket sizes above the current $60 threshold.
-3. **Cadence-Driven Retention:** Deploy automated marketing triggers aligned with primary repurchase cadences (Monthly, Quarterly, 3-Month replenishment).
+   ## 📁 Repository Contents
+   * `Customer_behavior_analysis.sql`: All 9 analytical SQL queries
+   * `Retail_analytics_dashboard.pbix`: Power BI dashboard
+   * `Retail_Customer_Trends_Presentation.pdf`: Executive slide deck
+   * `dashboard_preview.png`: Dashboard screenshot
 
 ---
 
